@@ -1,1 +1,1 @@
-### Aim of the experiment
+To design and implement 8-bit Comparator using IC 74LS85 
