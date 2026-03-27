@@ -1,0 +1,47 @@
+[
+  {
+    "question": "To design 8 bit comparator __ numbers of 74LS85 IC's are required.",
+    "qid": 1,
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "4",
+    "correct_option": "b"
+  },
+  {
+    "question": "EX-OR gate also works as ____",
+    "qid": 2,
+    "option_a": "Comparator",
+    "option_b": "Multiplexer.",
+    "option_c": "Decoder.",
+    "option_d": "De-Multliplexer.",
+    "correct_option": "a"
+  },
+  {
+    "question": "Binary Numbers are compare by ____",
+    "qid": 3,
+    "option_a": "74LS93.",
+    "option_b": "74LS85 .",
+    "option_c": "74LS138.",
+    "option_d": "74LS151.",
+    "correct_option": "b"
+  },
+  {
+    "question": "74LS85 Comparator cannot compare 2-bit, 4-bit and 8-bit numbers depending on the application requirement.",
+    "qid": 4,
+    "option_a": "True",
+    "option_b": "False.",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "b"
+  },
+  {
+    "question": "How many 4 bit comparators are required in 8 bit comparator?",
+    "qid": 5,
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "0",
+    "correct_option": "b"
+  }
+]
