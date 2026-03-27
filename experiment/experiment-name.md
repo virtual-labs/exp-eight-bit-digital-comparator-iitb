@@ -1,1 +1,1 @@
-## Experiment name
+## Design of 8-bit digital Comparator using MSI ICs

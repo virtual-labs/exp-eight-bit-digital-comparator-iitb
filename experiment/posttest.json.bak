@@ -1,0 +1,47 @@
+[
+  {
+    "question": "In 8 bit comparator, the cascading input of most significant comparator should be connected to ___________.",
+    "qid": 1,
+    "option_a": "to the cascading outputs from the least significant comparator.",
+    "option_b": "to the cascading inputs of the least significant comparator.",
+    "option_c": "A = B to a logic high, A < B and A > B to a logic low.",
+    "option_d": "ground.",
+    "correct_option": "a"
+  },
+  {
+    "question": "The binary numbers A = 1100 and B = 1001 are applied to the inputs of a comparator. What are the outputs?",
+    "qid": 2,
+    "option_a": "A > B = 1, A < B = 0, A = B = 1.",
+    "option_b": "A > B = 0, A < B = 1, A = B = 0.",
+    "option_c": "A > B = 1, A < B = 0, A = B = 0.",
+    "option_d": "A > B = 0, A < B = 1, A = B = 1.",
+    "correct_option": "c"
+  },
+  {
+    "question": "What is the function of the comparators in 74LS8",
+    "qid": 3,
+    "option_a": "To compare two Numbers",
+    "option_b": "To compare voltage",
+    "option_c": "To compare curren",
+    "option_d": "None of the above",
+    "correct_option": "a"
+  },
+  {
+    "question": "The binary numbers A = 1010 and B = 1010 are applied to the inputs of a comparator. What are the outputs?",
+    "qid": 4,
+    "option_a": "A > B = 1, A < B = 0, A = B = 1.",
+    "option_b": "A > B = 0, A < B = 1, A = B = 0.",
+    "option_c": "A > B = 1, A < B = 0, A = B = 0.",
+    "option_d": "A > B = 0, A < B = 1, A = B = 1.",
+    "correct_option": "b"
+  },
+  {
+    "question": "The binary numbers A = 1100 1010 and B = 1001 0001 are applied to the inputs of a comparator. What are the outputs?",
+    "qid": 5,
+    "option_a": "A > B = 1, A < B = 0, A = B = 1.",
+    "option_b": "A > B = 0, A < B = 1, A = B = 0",
+    "option_c": "A > B = 1, A < B = 0, A = B = 0.",
+    "option_d": "A > B = 0, A < B = 1, A = B = 1",
+    "correct_option": "c"
+  }
+]
